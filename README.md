@@ -12,8 +12,8 @@ If you don't run it with the env variables, it will not work.
 
 Important:
 
-Password must be encrypted with MD5
-TIMES variable passes how many profiles you want to create. If you want to create 500 profiles, you can
-All profiles will be created in intervals of 10 seconds
-All profiles will be created in the specified folder with the name "Created by Docker"
-Docker engine must be running in the background
+1. Password must be encrypted with MD5
+2. TIMES variable passes how many profiles you want to create. If you want to create 500 profiles, you can
+3. All profiles will be created in intervals of 10 seconds
+4. All profiles will be created in the specified folder with the name "Created by Docker"
+5. Docker engine must be running in the background
